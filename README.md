@@ -93,7 +93,13 @@ By completing these projects, you will:
 
 ## Expected Outcomes
 
-After completing all versions, you will have: 1. A working counter application with three different state management implementations 2. Understanding of when to use each state management solution 3. Practical experience with modern React state management patterns 4. A foundation for building more complex stateful applications 5. Ability to make informed decisions about state management in your projects
+After completing all versions, you will have: 
+
+1. A working counter application with three different state management implementations.
+2. An understanding of when to use each state management solution.
+3. Practical experience with modern React state management patterns.
+4. A foundation for building more complex stateful applications.
+5. Ability to make informed decisions about state management in your projects.
 
 ⚠️ Note:
 While copying and pasting code may seem quick and convenient, it often hinders true understanding. To get the most out of this learning experience, we strongly recommend that you:
